@@ -5,3 +5,5 @@
 本项目代码不开源，请勿向作者提“代码拿来看看学习一下”之类的问题。
 
 提交issues前请先注册github账号。
+
+前往 Issues区(https://github.com/anpho/qsbk/issues)
